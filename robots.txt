@@ -1,0 +1,44 @@
+# robots.txt for 跨境电商合规与政策查询平台
+# https://dianbaobao.eu.cc/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://dianbaobao.eu.cc/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Allow all search engines
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Sogou
+Allow: /
+Crawl-delay: 1
+
+User-agent: 360Spider
+Allow: /
+Crawl-delay: 1
+
+# Disallow admin or private directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow CSS and JS for proper rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Host directive for Yandex
+Host: https://dianbaobao.eu.cc
