@@ -1,11 +1,11 @@
 # robots.txt for 跨境电商合规与政策查询平台
-# https://dianbaobao.eu.cc/
+# https://mumaren.ccwu.cc/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://dianbaobao.eu.cc/sitemap.xml
+Sitemap: https://mumaren.ccwu.cc/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
@@ -41,4 +41,4 @@ Allow: /js/
 Allow: /images/
 
 # Host directive for Yandex
-Host: https://dianbaobao.eu.cc
+Host: https://mumaren.ccwu.cc
